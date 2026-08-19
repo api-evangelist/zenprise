@@ -35,7 +35,7 @@ x-status-reason: acquired-by-citrix-2013-01; folded into Citrix XenMobile
 x-founded: '2003'
 x-acquired-by: citrix
 x-acquired-date: '2013-01'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
